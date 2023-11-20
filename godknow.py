@@ -1,0 +1,1 @@
+print("micropython is for micropenis wielder")
